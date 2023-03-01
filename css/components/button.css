@@ -1,0 +1,12 @@
+.button-indigo {
+  background-color: #9640df;
+  padding: 10px 15px;
+  border-radius: 12px;
+  color: white;
+  font-weight: bold;
+  font-family: "roboto";
+  font-size: 23px;
+}
+.button-indigo:hover {
+  opacity: 0.8;
+}
